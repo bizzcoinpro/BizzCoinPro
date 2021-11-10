@@ -4,6 +4,13 @@ BizzCoinPro Utility and Trade based Cryptocurrency, Empowering people to use a s
 
 https://bscscan.com/token/0x68b96e29035059c198740852e33f6ca67e68156f
 
+Socail Media :
+
+https://www.facebook.com/BizzCoinPro
+
+https://twitter.com/BizzCoinPro
+
+https://www.linkedin.com/company/bizzcoinpro
 
 <!--
 **bizzcoinpro/BizzCoinPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
