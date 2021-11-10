@@ -1,4 +1,9 @@
 ### Hi there 👋
+BizzCoinPro Utility and Trade based Cryptocurrency, Empowering people to use a single currency for diverse payments as well as trading. BizzCoinPro (BIZZPRO) is an stable coin on Binance Smart Chain.
+
+
+https://bscscan.com/token/0x68b96e29035059c198740852e33f6ca67e68156f
+
 
 <!--
 **bizzcoinpro/BizzCoinPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
